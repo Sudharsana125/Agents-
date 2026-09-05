@@ -7,7 +7,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from realtime_engine import process_realtime_tick
 
 def main():
-    df, insights = process_realtime_tick()
+    df, insights, mapping = process_realtime_tick()
+
     print("=" * 60)
     print("SMART FACILITY MANAGEMENT AI - REAL-TIME MULTI-AGENT ENGINE")
     print("=" * 60)
