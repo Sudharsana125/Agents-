@@ -1,12 +1,5 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as gg
 import os
 import sys
-import time
-from datetime import datetime
 
 # Path resolution setup to locate project root
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -19,9 +12,25 @@ while curr and os.path.dirname(curr) != curr:
     curr = os.path.dirname(curr)
 PROJECT_ROOT = curr
 
+agents_dir = os.path.join(PROJECT_ROOT, "agents")
+if agents_dir not in sys.path:
+    sys.path.insert(0, agents_dir)
+
+import streamlit as st
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as gg
+import time
+from datetime import datetime
+
 from realtime_engine import process_realtime_tick
 from simulator import generate_telemetry_tick, STREAM_FILE
-from agents.data_agent import auto_detect_columns
+try:
+    from agents.data_agent import auto_detect_columns
+except ImportError:
+    from data_agent import auto_detect_columns
+
 
 # Page Configuration
 st.set_page_config(
