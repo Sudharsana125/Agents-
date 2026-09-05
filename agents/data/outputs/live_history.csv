@@ -1,0 +1,31 @@
+timestamp,facility_id,energy_usage,temperature,complaints,severity,energy_status
+2026-09-05 14:59:28,F001,120,24.0,2,Low,Optimized
+2026-09-05 14:59:28,F002,320,24.0,10,Critical,Over Consumption
+2026-09-05 14:59:28,F003,90,24.0,1,Low,Optimized
+2026-09-05 14:59:28,F004,260,24.0,6,Medium,Over Consumption
+2026-09-05 14:59:28,F005,80,24.0,0,Low,Optimized
+2026-09-05 14:59:28,F006,180,24.0,4,Medium,Normal
+2026-09-05 14:59:28,F007,310,24.0,9,Critical,Over Consumption
+2026-09-05 14:59:28,F008,140,24.0,3,Low,Optimized
+2026-09-05 14:59:28,F009,290,24.0,7,Medium,Over Consumption
+2026-09-05 14:59:28,F010,100,24.0,1,Low,Optimized
+2026-09-05 14:59:28,F011,210,24.0,5,Medium,Normal
+2026-09-05 14:59:28,F012,305,24.0,8,Critical,Over Consumption
+2026-09-05 14:59:28,F013,130,24.0,2,Low,Optimized
+2026-09-05 14:59:28,F014,250,24.0,6,Medium,Normal
+2026-09-05 14:59:28,F015,75,24.0,0,Low,Optimized
+2026-09-05 14:59:59,F001,120,24.0,2,Low,Optimized
+2026-09-05 14:59:59,F002,320,24.0,10,Critical,Over Consumption
+2026-09-05 14:59:59,F003,90,24.0,1,Low,Optimized
+2026-09-05 14:59:59,F004,260,24.0,6,Medium,Over Consumption
+2026-09-05 14:59:59,F005,80,24.0,0,Low,Optimized
+2026-09-05 14:59:59,F006,180,24.0,4,Medium,Normal
+2026-09-05 14:59:59,F007,310,24.0,9,Critical,Over Consumption
+2026-09-05 14:59:59,F008,140,24.0,3,Low,Optimized
+2026-09-05 14:59:59,F009,290,24.0,7,Medium,Over Consumption
+2026-09-05 14:59:59,F010,100,24.0,1,Low,Optimized
+2026-09-05 14:59:59,F011,210,24.0,5,Medium,Normal
+2026-09-05 14:59:59,F012,305,24.0,8,Critical,Over Consumption
+2026-09-05 14:59:59,F013,130,24.0,2,Low,Optimized
+2026-09-05 14:59:59,F014,250,24.0,6,Medium,Normal
+2026-09-05 14:59:59,F015,75,24.0,0,Low,Optimized

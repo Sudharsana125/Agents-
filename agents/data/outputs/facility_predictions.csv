@@ -1,16 +1,16 @@
-facility_id,complaints,energy_usage,sentiment_score,severity,energy_status,explanation
-F001,2,120,-0.3,Low,Optimized,Facility F001 has 2 complaints with Optimized energy usage.
-F002,10,320,-0.9,Critical,Over Consumption,Facility F002 has 10 complaints with Over Consumption energy usage.
-F003,1,90,0.7,Low,Optimized,Facility F003 has 1 complaints with Optimized energy usage.
-F004,6,260,-0.5,Medium,Over Consumption,Facility F004 has 6 complaints with Over Consumption energy usage.
-F005,0,80,0.9,Low,Optimized,Facility F005 has 0 complaints with Optimized energy usage.
-F006,4,180,-0.2,Medium,Normal,Facility F006 has 4 complaints with Normal energy usage.
-F007,9,310,-0.8,Critical,Over Consumption,Facility F007 has 9 complaints with Over Consumption energy usage.
-F008,3,140,0.1,Low,Optimized,Facility F008 has 3 complaints with Optimized energy usage.
-F009,7,290,-0.6,Medium,Over Consumption,Facility F009 has 7 complaints with Over Consumption energy usage.
-F010,1,100,0.8,Low,Optimized,Facility F010 has 1 complaints with Optimized energy usage.
-F011,5,210,-0.4,Medium,Normal,Facility F011 has 5 complaints with Normal energy usage.
-F012,8,305,-0.7,Critical,Over Consumption,Facility F012 has 8 complaints with Over Consumption energy usage.
-F013,2,130,0.3,Low,Optimized,Facility F013 has 2 complaints with Optimized energy usage.
-F014,6,250,-0.5,Medium,Normal,Facility F014 has 6 complaints with Normal energy usage.
-F015,0,75,0.95,Low,Optimized,Facility F015 has 0 complaints with Optimized energy usage.
+facility_id,complaints,energy_usage,sentiment_score,severity,energy_status,explanation,temperature,occupancy,hvac_status,timestamp,efficiency_score,action
+F001,2,120,-0.3,Low,Optimized,"✅ OPTIMAL for F001: Operating within parameters (120 kW, 24.0°C, 2 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,67.9,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F002,10,320,-0.9,Critical,Over Consumption,🚨 ALERT for F002: High complaint surge (10 complaints) with Over Consumption (320 kW at 24.0°C). Multi-Agent System Action: [CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C].,24.0,45,Normal,2026-09-05 14:59:59,42.9,CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C
+F003,1,90,0.7,Low,Optimized,"✅ OPTIMAL for F003: Operating within parameters (90 kW, 24.0°C, 1 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,71.6,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F004,6,260,-0.5,Medium,Over Consumption,"⚡ WARNING for F004: Energy spike detected (260 kW, 24.0°C). Agent Recommendation: [OPTIMIZE CONTROL: Shed Non-Essential Lighting & Increase Chiller Rate].",24.0,45,Normal,2026-09-05 14:59:59,50.4,OPTIMIZE CONTROL: Shed Non-Essential Lighting & Increase Chiller Rate
+F005,0,80,0.9,Low,Optimized,"✅ OPTIMAL for F005: Operating within parameters (80 kW, 24.0°C, 0 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,72.9,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F006,4,180,-0.2,Medium,Normal,"✅ OPTIMAL for F006: Operating within parameters (180 kW, 24.0°C, 4 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,60.4,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F007,9,310,-0.8,Critical,Over Consumption,🚨 ALERT for F007: High complaint surge (9 complaints) with Over Consumption (310 kW at 24.0°C). Multi-Agent System Action: [CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C].,24.0,45,Normal,2026-09-05 14:59:59,44.1,CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C
+F008,3,140,0.1,Low,Optimized,"✅ OPTIMAL for F008: Operating within parameters (140 kW, 24.0°C, 3 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,65.4,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F009,7,290,-0.6,Medium,Over Consumption,"⚡ WARNING for F009: Energy spike detected (290 kW, 24.0°C). Agent Recommendation: [OPTIMIZE CONTROL: Shed Non-Essential Lighting & Increase Chiller Rate].",24.0,45,Normal,2026-09-05 14:59:59,46.6,OPTIMIZE CONTROL: Shed Non-Essential Lighting & Increase Chiller Rate
+F010,1,100,0.8,Low,Optimized,"✅ OPTIMAL for F010: Operating within parameters (100 kW, 24.0°C, 1 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,70.4,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F011,5,210,-0.4,Medium,Normal,"✅ OPTIMAL for F011: Operating within parameters (210 kW, 24.0°C, 5 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,56.6,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F012,8,305,-0.7,Critical,Over Consumption,🚨 ALERT for F012: High complaint surge (8 complaints) with Over Consumption (305 kW at 24.0°C). Multi-Agent System Action: [CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C].,24.0,45,Normal,2026-09-05 14:59:59,44.7,CRITICAL DISPATCH: Send Emergency HVAC Maintenance & Lower Thermostat -2°C
+F013,2,130,0.3,Low,Optimized,"✅ OPTIMAL for F013: Operating within parameters (130 kW, 24.0°C, 2 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,66.6,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F014,6,250,-0.5,Medium,Normal,"✅ OPTIMAL for F014: Operating within parameters (250 kW, 24.0°C, 6 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,51.6,AUTO MAINTAIN: Optimal Operating State - No Intervention Required
+F015,0,75,0.95,Low,Optimized,"✅ OPTIMAL for F015: Operating within parameters (75 kW, 24.0°C, 0 complaints). Status: [AUTO MAINTAIN: Optimal Operating State - No Intervention Required].",24.0,45,Normal,2026-09-05 14:59:59,73.5,AUTO MAINTAIN: Optimal Operating State - No Intervention Required

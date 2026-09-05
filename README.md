@@ -1,16 +1,21 @@
-# 🏢 Smart Facility Management AI
+# 🏢 Real-Time Multi-Agent Smart Facility AI
 
-An intelligent multi-agent AI system for automated facility monitoring, complaint severity classification, energy usage optimization, and actionable maintenance insights with an interactive Streamlit dashboard.
+An intelligent real-time multi-agent AI system for continuous facility monitoring, IoT telemetry ingestion, complaint severity classification, energy usage optimization, automated control actions, and interactive live dashboards.
 
 ---
 
-## 📌 Features
+## 📌 Real-Time Architecture Features
 
-- **🤖 Multi-Agent Architecture**: Modular AI agents responsible for data ingestion, complaint analysis, energy optimization, decision support, and AI explanation generation.
-- **🚨 Complaint Severity Classification**: Automatically categorizes tenant/facility complaints into severity levels (`Low`, `Medium`, `Critical`) to prioritize maintenance.
-- **⚡ Energy Optimization Monitoring**: Analyzes facility energy usage metrics to identify inefficiencies and flag high consumption.
-- **🧠 AI Explanations & Insights**: Generates readable explanations and actionable recommendations for facility managers.
-- **📊 Interactive Streamlit Dashboard**: Filter and explore facility predictions, complaint severity metrics, and AI recommendations visually.
+- **⚡ Real-Time IoT Telemetry Streamer (`simulator.py`)**: Continuously simulates live facility sensors (Energy kW, Temperature °C, HVAC status, Occupancy count, Tenant complaints) with real-time anomaly injection capabilities.
+- **🤖 Real-Time Multi-Agent Engine (`realtime_engine.py`)**:
+  - **`data_agent.py`**: Manages real-time data buffer ingestion and rolling time-window queries.
+  - **`complaint_severity_agent.py`**: Evaluates live complaint bursts and sentiment.
+  - **`energy_optimization_agent.py`**: Computes dynamic thermal-occupancy efficiency scores.
+  - **`decision_agent.py`**: Automates real-time operational control actions (e.g. emergency dispatch, thermostat adjustments, load shedding).
+  - **`insight_agent.py`**: Computes real-time facility health scores and aggregate KPIs.
+  - **`llm_explanation_agent.py`**: Generates context-aware natural language decision rationale.
+- **📊 Interactive Real-Time Dashboard (`app.py`)**: Live auto-refreshing interface (1s - 10s toggle) featuring KPI metric cards, streaming time-series charts, active critical decision feed, and 1-click anomaly injection controls.
+- **🌐 Real-Time FastAPI Backend (`api_server.py`)**: High-performance REST API endpoints for live telemetry ingestion, alert streaming, and automated tick triggering.
 
 ---
 
@@ -20,22 +25,27 @@ An intelligent multi-agent AI system for automated facility monitoring, complain
 SMART FACILITY/
 ├── agents/
 │   ├── data/
-│   │   ├── facility_data.csv          # Input facility dataset
+│   │   ├── facility_data.csv          # Base facility dataset
+│   │   ├── live_facility_stream.csv   # Live streaming IoT telemetry buffer
 │   │   └── outputs/
-│   │       ├── facility_predictions.csv  # Generated predictions output
+│   │       ├── facility_predictions.csv  # Latest multi-agent evaluation output
+│   │       ├── live_history.csv       # Rolling time-series history for charts
 │   │       └── dashboard/
-│   │           └── app.py             # Streamlit dashboard application
-│   ├── complaint_severity_agent.py    # Classifies complaint severity
-│   ├── data_agent.py                  # Ingests & queries facility data
-│   ├── decision_agent.py              # Decision logic agent
-│   ├── energy_optimization_agent.py   # Analyzes energy usage status
-│   ├── insight_agent.py               # Derives facility insights
-│   ├── learning_agent.py              # Facility learning/adaptation agent
-│   ├── llm_explanation_agent.py       # Generates AI explanations
-│   └── main.py                        # Pipeline entrypoint (agents folder)
-├── .gitignore                         # Ignored files & directories
-├── main.py                            # Main pipeline execution entrypoint
-└── README.md                          # Project documentation
+│   │           └── app.py             # Streamlit real-time dashboard application
+│   ├── complaint_severity_agent.py    # Complaint severity classification agent
+│   ├── data_agent.py                  # Live telemetry ingestion agent
+│   ├── decision_agent.py              # Real-time automated control & dispatch agent
+│   ├── energy_optimization_agent.py   # Real-time thermal-energy optimization agent
+│   ├── insight_agent.py               # Aggregation & facility health score agent
+│   ├── learning_agent.py              # Adaptive learning agent
+│   ├── llm_explanation_agent.py       # Real-time alert explanation agent
+│   └── main.py                        # Internal pipeline entrypoint
+├── api_server.py                      # FastAPI REST API server
+├── main.py                            # Real-Time Multi-Agent execution entrypoint
+├── realtime_engine.py                 # Core real-time multi-agent processing engine
+├── simulator.py                       # Real-Time IoT telemetry & anomaly simulator
+├── README.md                          # Project documentation
+└── .gitignore                         # Ignored files & directories
 ```
 
 ---
@@ -46,42 +56,39 @@ SMART FACILITY/
 - Python 3.9+
 - Git
 
-### 2. Clone Repository
+### 2. Install Dependencies
 ```bash
-git clone https://github.com/Sudharsana125/Agents-.git
-cd Agents-
-```
-
-### 3. Install Dependencies
-Install required packages using pip:
-```bash
-pip install pandas streamlit
+pip install pandas streamlit fastapi uvicorn
 ```
 
 ---
 
-## 🚀 Usage
+## 🚀 Quick Start Guide
 
-### Run AI Processing Pipeline
-Execute the main pipeline to load facility data, evaluate complaint severity and energy consumption, generate explanations, and save predictions:
-
+### 1. Run Real-Time Multi-Agent Pipeline
+Execute a real-time multi-agent pass across current telemetry feeds:
 ```bash
 python main.py
 ```
-*Output CSV will be saved to `agents/data/outputs/facility_predictions.csv`.*
 
-### Launch Streamlit Dashboard
-Launch the interactive web application to visualize data and filter by severity levels:
-
+### 2. Launch Real-Time Auto-Refreshing Dashboard
+Launch the interactive Streamlit dashboard to monitor live telemetry, view streaming time-series charts, and inject anomalies live:
 ```bash
 streamlit run agents/data/outputs/dashboard/app.py
 ```
 
----
+### 3. Launch Real-Time FastAPI Server
+Start the REST API server for IoT telemetry ingestion:
+```bash
+python api_server.py
+```
+*API docs available at `http://localhost:8000/docs`.*
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance agent capability, add features, or improve dashboard visualizations.
+### 4. Run Standalone Real-Time IoT Simulator
+To continuously stream live telemetry updates every 3 seconds:
+```bash
+python simulator.py
+```
 
 ---
 
