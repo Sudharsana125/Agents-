@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from agents.data_agent import load_data
 from agents.complaint_severity_agent import assign_severity
@@ -11,8 +12,13 @@ def main():
     df["energy_status"] = df["energy_usage"].apply(energy_status)
     df["explanation"] = df.apply(explain, axis=1)
 
-    df.to_csv("agents/data/outputs/facility_predictions.csv", index=False)
+    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "agents", "data", "outputs")
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "facility_predictions.csv")
+
+    df.to_csv(output_path, index=False)
     print("AI Processing Completed Successfully")
 
 if __name__ == "__main__":
     main()
+
