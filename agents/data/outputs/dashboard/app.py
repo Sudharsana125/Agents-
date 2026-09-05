@@ -6,11 +6,13 @@ CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 curr = CURRENT_DIR
 while curr and os.path.dirname(curr) != curr:
     if os.path.exists(os.path.join(curr, "realtime_engine.py")):
-        if curr not in sys.path:
-            sys.path.insert(0, curr)
+        if curr in sys.path:
+            sys.path.remove(curr)
+        sys.path.insert(0, curr)
         break
     curr = os.path.dirname(curr)
 PROJECT_ROOT = curr
+
 
 agents_dir = os.path.join(PROJECT_ROOT, "agents")
 if agents_dir not in sys.path:
