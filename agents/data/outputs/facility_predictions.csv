@@ -1,0 +1,16 @@
+facility_id,complaints,energy_usage,sentiment_score,severity,energy_status,explanation
+F001,2,120,-0.3,Low,Optimized,Facility F001 has 2 complaints with Optimized energy usage.
+F002,10,320,-0.9,Critical,Over Consumption,Facility F002 has 10 complaints with Over Consumption energy usage.
+F003,1,90,0.7,Low,Optimized,Facility F003 has 1 complaints with Optimized energy usage.
+F004,6,260,-0.5,Medium,Over Consumption,Facility F004 has 6 complaints with Over Consumption energy usage.
+F005,0,80,0.9,Low,Optimized,Facility F005 has 0 complaints with Optimized energy usage.
+F006,4,180,-0.2,Medium,Normal,Facility F006 has 4 complaints with Normal energy usage.
+F007,9,310,-0.8,Critical,Over Consumption,Facility F007 has 9 complaints with Over Consumption energy usage.
+F008,3,140,0.1,Low,Optimized,Facility F008 has 3 complaints with Optimized energy usage.
+F009,7,290,-0.6,Medium,Over Consumption,Facility F009 has 7 complaints with Over Consumption energy usage.
+F010,1,100,0.8,Low,Optimized,Facility F010 has 1 complaints with Optimized energy usage.
+F011,5,210,-0.4,Medium,Normal,Facility F011 has 5 complaints with Normal energy usage.
+F012,8,305,-0.7,Critical,Over Consumption,Facility F012 has 8 complaints with Over Consumption energy usage.
+F013,2,130,0.3,Low,Optimized,Facility F013 has 2 complaints with Optimized energy usage.
+F014,6,250,-0.5,Medium,Normal,Facility F014 has 6 complaints with Normal energy usage.
+F015,0,75,0.95,Low,Optimized,Facility F015 has 0 complaints with Optimized energy usage.

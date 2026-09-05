@@ -1,0 +1,16 @@
+facility_id,complaints,energy_usage,sentiment_score,severity,energy_status,explanation
+F001,2,120,-0.3,Low,Optimized,Minor complaints and good energy usage
+F002,10,320,-0.9,Critical,Over Consumption,High complaints and very high energy usage
+F003,1,90,0.7,Low,Optimized,Happy users and efficient energy usage
+F004,6,260,-0.5,Medium,Over Consumption,Moderate complaints and high energy usage
+F005,0,80,0.9,Low,Optimized,No complaints and excellent energy efficiency
+F006,4,180,-0.2,Medium,Normal,Some complaints but acceptable energy usage
+F007,9,310,-0.8,Critical,Over Consumption,Frequent complaints and heavy energy usage
+F008,3,140,0.1,Low,Optimized,Low complaints and stable energy usage
+F009,7,290,-0.6,Medium,Over Consumption,High complaints with energy inefficiency
+F010,1,100,0.8,Low,Optimized,Very satisfied users and low energy usage
+F011,5,210,-0.4,Medium,Normal,Moderate complaints and balanced energy
+F012,8,305,-0.7,Critical,Over Consumption,Serious complaints and power wastage
+F013,2,130,0.3,Low,Optimized,Minor issues and efficient energy
+F014,6,250,-0.5,Medium,Over Consumption,Complaints with borderline energy use
+F015,0,75,0.95,Low,Optimized,Excellent facility performance
