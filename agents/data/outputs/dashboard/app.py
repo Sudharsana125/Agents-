@@ -15,9 +15,11 @@ while curr and os.path.dirname(curr) != curr:
             sys.path.insert(0, curr)
         break
     curr = os.path.dirname(curr)
+PROJECT_ROOT = curr
 
 from realtime_engine import process_realtime_tick
 from simulator import generate_telemetry_tick
+
 
 
 st.set_page_config(
