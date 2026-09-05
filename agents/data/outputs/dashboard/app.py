@@ -26,12 +26,22 @@ import plotly.graph_objects as gg
 import time
 from datetime import datetime
 
+import importlib
+import realtime_engine
+import simulator
+try:
+    import agents.data_agent as data_agent_mod
+except ImportError:
+    import data_agent as data_agent_mod
+
+importlib.reload(realtime_engine)
+importlib.reload(simulator)
+importlib.reload(data_agent_mod)
+
 from realtime_engine import process_realtime_tick
 from simulator import generate_telemetry_tick, STREAM_FILE
-try:
-    from agents.data_agent import auto_detect_columns
-except ImportError:
-    from data_agent import auto_detect_columns
+auto_detect_columns = data_agent_mod.auto_detect_columns
+
 
 
 # Page Configuration
