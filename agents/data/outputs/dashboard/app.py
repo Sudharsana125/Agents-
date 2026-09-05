@@ -6,14 +6,19 @@ import sys
 import time
 from datetime import datetime
 
-# Path resolution setup
+# Path resolution setup to locate project root
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_ROOT = os.path.abspath(os.path.join(CURRENT_DIR, "..", "..", ".."))
-if PROJECT_ROOT not in sys.path:
-    sys.path.insert(0, PROJECT_ROOT)
+curr = CURRENT_DIR
+while curr and os.path.dirname(curr) != curr:
+    if os.path.exists(os.path.join(curr, "realtime_engine.py")):
+        if curr not in sys.path:
+            sys.path.insert(0, curr)
+        break
+    curr = os.path.dirname(curr)
 
 from realtime_engine import process_realtime_tick
 from simulator import generate_telemetry_tick
+
 
 st.set_page_config(
     page_title="Smart Facility AI - Real-Time Dashboard",
