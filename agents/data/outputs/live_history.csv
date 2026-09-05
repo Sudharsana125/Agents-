@@ -229,3 +229,63 @@ timestamp,facility_id,energy_usage,temperature,complaints,severity,energy_status
 2026-09-05 15:07:37,F013,169.0,22.7,4,Medium,Normal
 2026-09-05 15:07:37,F014,272.0,18.2,5,Medium,Over Consumption
 2026-09-05 15:07:37,F015,114.0,26.2,5,Medium,Optimized
+2026-09-05 15:07:37,F001,101.0,23.6,7,Medium,Optimized
+2026-09-05 15:07:37,F002,256.0,24.5,4,Medium,Normal
+2026-09-05 15:07:37,F003,159.0,21.3,1,Low,Normal
+2026-09-05 15:07:37,F004,290.0,23.1,2,Low,Over Consumption
+2026-09-05 15:07:37,F005,59.0,24.0,8,Critical,Optimized
+2026-09-05 15:07:37,F006,122.0,21.6,12,Critical,Optimized
+2026-09-05 15:07:37,F007,222.0,20.4,14,Critical,Normal
+2026-09-05 15:07:37,F008,219.0,20.3,7,Medium,Normal
+2026-09-05 15:07:37,F009,336.0,24.6,12,Critical,Over Consumption
+2026-09-05 15:07:37,F010,170.0,24.9,5,Medium,Normal
+2026-09-05 15:07:37,F011,297.0,23.7,2,Low,Over Consumption
+2026-09-05 15:07:37,F012,415.0,22.8,9,Critical,Over Consumption
+2026-09-05 15:07:37,F013,169.0,22.7,4,Medium,Normal
+2026-09-05 15:07:37,F014,272.0,18.2,5,Medium,Over Consumption
+2026-09-05 15:07:37,F015,114.0,26.2,5,Medium,Optimized
+2026-09-05 15:07:37,F001,101.0,23.6,7,Medium,Optimized
+2026-09-05 15:07:37,F002,256.0,24.5,4,Medium,Normal
+2026-09-05 15:07:37,F003,159.0,21.3,1,Low,Normal
+2026-09-05 15:07:37,F004,290.0,23.1,2,Low,Over Consumption
+2026-09-05 15:07:37,F005,59.0,24.0,8,Critical,Optimized
+2026-09-05 15:07:37,F006,122.0,21.6,12,Critical,Optimized
+2026-09-05 15:07:37,F007,222.0,20.4,14,Critical,Normal
+2026-09-05 15:07:37,F008,219.0,20.3,7,Medium,Normal
+2026-09-05 15:07:37,F009,336.0,24.6,12,Critical,Over Consumption
+2026-09-05 15:07:37,F010,170.0,24.9,5,Medium,Normal
+2026-09-05 15:07:37,F011,297.0,23.7,2,Low,Over Consumption
+2026-09-05 15:07:37,F012,415.0,22.8,9,Critical,Over Consumption
+2026-09-05 15:07:37,F013,169.0,22.7,4,Medium,Normal
+2026-09-05 15:07:37,F014,272.0,18.2,5,Medium,Over Consumption
+2026-09-05 15:07:37,F015,114.0,26.2,5,Medium,Optimized
+2026-09-05 15:07:37,F001,101.0,23.6,7,Medium,Optimized
+2026-09-05 15:07:37,F002,256.0,24.5,4,Medium,Normal
+2026-09-05 15:07:37,F003,159.0,21.3,1,Low,Normal
+2026-09-05 15:07:37,F004,290.0,23.1,2,Low,Over Consumption
+2026-09-05 15:07:37,F005,59.0,24.0,8,Critical,Optimized
+2026-09-05 15:07:37,F006,122.0,21.6,12,Critical,Optimized
+2026-09-05 15:07:37,F007,222.0,20.4,14,Critical,Normal
+2026-09-05 15:07:37,F008,219.0,20.3,7,Medium,Normal
+2026-09-05 15:07:37,F009,336.0,24.6,12,Critical,Over Consumption
+2026-09-05 15:07:37,F010,170.0,24.9,5,Medium,Normal
+2026-09-05 15:07:37,F011,297.0,23.7,2,Low,Over Consumption
+2026-09-05 15:07:37,F012,415.0,22.8,9,Critical,Over Consumption
+2026-09-05 15:07:37,F013,169.0,22.7,4,Medium,Normal
+2026-09-05 15:07:37,F014,272.0,18.2,5,Medium,Over Consumption
+2026-09-05 15:07:37,F015,114.0,26.2,5,Medium,Optimized
+2026-09-05 15:07:37,F001,101.0,23.6,7,Medium,Optimized
+2026-09-05 15:07:37,F002,256.0,24.5,4,Medium,Normal
+2026-09-05 15:07:37,F003,159.0,21.3,1,Low,Normal
+2026-09-05 15:07:37,F004,290.0,23.1,2,Low,Over Consumption
+2026-09-05 15:07:37,F005,59.0,24.0,8,Critical,Optimized
+2026-09-05 15:07:37,F006,122.0,21.6,12,Critical,Optimized
+2026-09-05 15:07:37,F007,222.0,20.4,14,Critical,Normal
+2026-09-05 15:07:37,F008,219.0,20.3,7,Medium,Normal
+2026-09-05 15:07:37,F009,336.0,24.6,12,Critical,Over Consumption
+2026-09-05 15:07:37,F010,170.0,24.9,5,Medium,Normal
+2026-09-05 15:07:37,F011,297.0,23.7,2,Low,Over Consumption
+2026-09-05 15:07:37,F012,415.0,22.8,9,Critical,Over Consumption
+2026-09-05 15:07:37,F013,169.0,22.7,4,Medium,Normal
+2026-09-05 15:07:37,F014,272.0,18.2,5,Medium,Over Consumption
+2026-09-05 15:07:37,F015,114.0,26.2,5,Medium,Optimized

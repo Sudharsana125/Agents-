@@ -2,12 +2,21 @@ import os
 import pandas as pd
 from datetime import datetime
 
-from agents.data_agent import load_data, parse_universal_csv
-from agents.complaint_severity_agent import assign_severity
-from agents.energy_optimization_agent import energy_status, calculate_efficiency_score
-from agents.decision_agent import determine_action
-from agents.insight_agent import generate_insights
-from agents.llm_explanation_agent import explain
+try:
+    from agents.data_agent import load_data, parse_universal_csv
+    from agents.complaint_severity_agent import assign_severity
+    from agents.energy_optimization_agent import energy_status, calculate_efficiency_score
+    from agents.decision_agent import determine_action
+    from agents.insight_agent import generate_insights
+    from agents.llm_explanation_agent import explain
+except ImportError:
+    from data_agent import load_data, parse_universal_csv
+    from complaint_severity_agent import assign_severity
+    from energy_optimization_agent import energy_status, calculate_efficiency_score
+    from decision_agent import determine_action
+    from insight_agent import generate_insights
+    from llm_explanation_agent import explain
+
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "agents", "data", "outputs")
 PREDICTIONS_FILE = os.path.join(OUTPUT_DIR, "facility_predictions.csv")
