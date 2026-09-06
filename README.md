@@ -26,15 +26,9 @@ A state-of-the-art, real-time multi-agent AI web application for intelligent fac
 ![AI Assistant Hub](docs/screenshots/03_ai_assistant.png)
 
 ---
-
-### 4. Interactive AI Chat Module
-*Standalone conversational agent interface with prompt shortcuts for quick facility diagnostics and automated resolution recommendations.*
-
-![AI Chat Interface](docs/screenshots/04_ai_chat_modal.png)
-
 ---
 
-### 5. Facility Reports & Export Center
+### 4. Facility Reports & Export Center
 *Executive report generator for downloading maintenance work order summaries, thermal load logs, and multi-agent AI diagnosis briefs.*
 
 ![Reports & Export Center](docs/screenshots/05_reports_export_center.png)
