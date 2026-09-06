@@ -55,7 +55,7 @@ A state-of-the-art, real-time multi-agent AI web application for intelligent fac
 
 ### **Frontend**
 - **Framework**: React 18 + Vite
-- **Styling**: Custom Luxury Dark CSS System (Gold/Amber Accents, Glassmorphism)
+- AI & Architecture : Multi agent orchestration (6 autonomous agent)
 - **Mapping**: Leaflet.js + React-Leaflet (Esri World Imagery Satellite Tiles)
 - **Icons**: Lucide React Icons
 
@@ -63,45 +63,6 @@ A state-of-the-art, real-time multi-agent AI web application for intelligent fac
 - **API Server**: Python + FastAPI + Uvicorn
 - **Data Processing**: Pandas, NumPy
 - **Architecture**: Multi-Agent System (Python async/modular framework)
-
----
-
-## 📁 Repository Structure
-
-```text
-SMART FACILITY/
-├── agents/
-│   ├── data/
-│   │   ├── facility_data.csv          # Base facility dataset
-│   │   ├── live_facility_stream.csv   # Live streaming IoT telemetry buffer
-│   │   └── outputs/
-│   │       ├── facility_predictions.csv  # Multi-agent evaluation output
-│   │       └── live_history.csv       # Rolling time-series history
-│   ├── complaint_severity_agent.py    # Complaint classification agent
-│   ├── data_agent.py                  # Telemetry ingestion agent
-│   ├── decision_agent.py              # Operational control & dispatch agent
-│   ├── energy_optimization_agent.py   # Thermal & energy optimization agent
-│   ├── insight_agent.py               # Aggregation & facility health agent
-│   ├── learning_agent.py              # Adaptive learning agent
-│   ├── llm_explanation_agent.py       # Alert rationale explainer agent
-│   └── main.py                        # Pipeline entrypoint
-├── docs/
-│   └── screenshots/                   # Application screenshots & visual assets
-├── frontend/                          # React + Vite frontend application
-│   ├── src/
-│   │   ├── components/                # Reusable UI components & Satellite Map
-│   │   ├── context/                   # CSV DataLoaderContext for dynamic evaluation
-│   │   ├── pages/                     # Dashboard, AI Assistant, Reports, Enter, etc.
-│   │   └── App.jsx                    # Core layout & navigation router
-│   ├── package.json                   # Node.js dependencies
-│   └── vite.config.js                 # Vite build configuration
-├── api_server.py                      # FastAPI REST API server
-├── main.py                            # Multi-Agent execution script
-├── realtime_engine.py                 # Core multi-agent orchestration engine
-├── simulator.py                       # IoT telemetry stream simulator
-├── README.md                          # Project documentation
-└── .gitignore                         # Git ignore configuration
-```
 
 ---
 
@@ -155,9 +116,3 @@ python main.py
 # Run continuous IoT telemetry simulator (updates every 3s)
 python simulator.py
 ```
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
