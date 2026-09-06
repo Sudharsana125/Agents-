@@ -1,8 +1,12 @@
 import os
+import sys
 import random
 import time
 import pandas as pd
 from datetime import datetime
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "agents", "data")
 STREAM_FILE = os.path.join(DATA_DIR, "live_facility_stream.csv")

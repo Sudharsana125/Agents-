@@ -1,6 +1,10 @@
 import os
+import sys
 import pandas as pd
 from datetime import datetime
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
 
 try:
     from agents.data_agent import load_data, parse_universal_csv

@@ -1,244 +1,4 @@
 timestamp,facility_id,energy_usage,temperature,complaints,severity,energy_status
-2026-06-15,FAC0031,2900.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0032,5669.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0033,22237.0,24.0,0,Low,Over Consumption
-2026-08-29,FAC0034,9732.0,24.0,0,Low,Over Consumption
-2026-06-04,FAC0035,2164.0,24.0,0,Low,Over Consumption
-2026-06-12,FAC0036,24788.0,24.0,0,Low,Over Consumption
-2026-05-22,FAC0037,19587.0,24.0,0,Low,Over Consumption
-2026-04-21,FAC0038,22354.0,24.0,0,Low,Over Consumption
-2026-04-01,FAC0039,5824.0,24.0,0,Low,Over Consumption
-2026-07-24,FAC0040,9242.0,24.0,0,Low,Over Consumption
-2026-07-21,FAC0041,11957.0,24.0,0,Low,Over Consumption
-2026-03-20,FAC0042,9629.0,24.0,0,Low,Over Consumption
-2026-07-17,FAC0043,9059.0,24.0,0,Low,Over Consumption
-2026-05-29,FAC0044,13122.0,24.0,0,Low,Over Consumption
-2026-03-07,FAC0045,14632.0,24.0,0,Low,Over Consumption
-2026-06-20,FAC0046,22352.0,24.0,0,Low,Over Consumption
-2026-04-15,FAC0047,20669.0,24.0,0,Low,Over Consumption
-2026-04-14,FAC0048,14976.0,24.0,0,Low,Over Consumption
-2026-06-22,FAC0049,17390.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0050,7025.0,24.0,0,Low,Over Consumption
-2026-01-07,FAC0051,24038.0,24.0,0,Low,Over Consumption
-2026-05-07,FAC0052,6263.0,24.0,0,Low,Over Consumption
-2026-07-25,FAC0053,22375.0,24.0,0,Low,Over Consumption
-2026-07-13,FAC0054,24868.0,24.0,0,Low,Over Consumption
-2026-08-09,FAC0055,9498.0,24.0,0,Low,Over Consumption
-2026-04-23,FAC0056,5442.0,24.0,0,Low,Over Consumption
-2026-04-09,FAC0057,2540.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0058,693.0,24.0,0,Low,Over Consumption
-2026-04-01,FAC0059,7690.0,24.0,0,Low,Over Consumption
-2026-03-11,FAC0060,4682.0,24.0,0,Low,Over Consumption
-2026-08-21,FAC0061,15628.0,24.0,0,Low,Over Consumption
-2026-02-16,FAC0062,14313.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0063,21856.0,24.0,0,Low,Over Consumption
-2026-01-11,FAC0064,4636.0,24.0,0,Low,Over Consumption
-2026-06-21,FAC0065,5866.0,24.0,0,Low,Over Consumption
-2026-01-28,FAC0066,19901.0,24.0,0,Low,Over Consumption
-2026-01-27,FAC0067,17956.0,24.0,0,Low,Over Consumption
-2026-04-20,FAC0068,14705.0,24.0,0,Low,Over Consumption
-2026-06-12,FAC0069,15732.0,24.0,0,Low,Over Consumption
-2026-07-31,FAC0070,15727.0,24.0,0,Low,Over Consumption
-2026-03-28,FAC0071,9663.0,24.0,0,Low,Over Consumption
-2026-05-23,FAC0072,23129.0,24.0,0,Low,Over Consumption
-2026-06-15,FAC0073,23168.0,24.0,0,Low,Over Consumption
-2026-03-04,FAC0074,12028.0,24.0,0,Low,Over Consumption
-2026-03-11,FAC0075,7590.0,24.0,0,Low,Over Consumption
-2026-03-12,FAC0076,10207.0,24.0,0,Low,Over Consumption
-2026-02-28,FAC0077,18632.0,24.0,0,Low,Over Consumption
-2026-06-28,FAC0078,16186.0,24.0,0,Low,Over Consumption
-2026-04-23,FAC0079,16613.0,24.0,0,Low,Over Consumption
-2026-05-28,FAC0080,4381.0,24.0,0,Low,Over Consumption
-2026-06-05,FAC0081,19784.0,24.0,0,Low,Over Consumption
-2026-03-20,FAC0082,22140.0,24.0,0,Low,Over Consumption
-2026-02-10,FAC0083,1569.0,24.0,0,Low,Over Consumption
-2026-03-15,FAC0084,20981.0,24.0,0,Low,Over Consumption
-2026-05-31,FAC0085,5160.0,24.0,0,Low,Over Consumption
-2026-01-16,FAC0086,15858.0,24.0,0,Low,Over Consumption
-2026-06-29,FAC0087,24569.0,24.0,0,Low,Over Consumption
-2026-06-04,FAC0088,19382.0,24.0,0,Low,Over Consumption
-2026-07-15,FAC0089,3489.0,24.0,0,Low,Over Consumption
-2026-03-31,FAC0090,9944.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0091,4298.0,24.0,0,Low,Over Consumption
-2026-08-10,FAC0092,6646.0,24.0,0,Low,Over Consumption
-2026-06-09,FAC0093,14856.0,24.0,0,Low,Over Consumption
-2026-02-01,FAC0094,18596.0,24.0,0,Low,Over Consumption
-2026-01-24,FAC0095,23981.0,24.0,0,Low,Over Consumption
-2026-03-16,FAC0096,13069.0,24.0,0,Low,Over Consumption
-2026-08-24,FAC0097,17137.0,24.0,0,Low,Over Consumption
-2026-03-10,FAC0098,15132.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0099,23355.0,24.0,0,Low,Over Consumption
-2026-05-27,FAC0100,13151.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0101,3788.0,24.0,0,Low,Over Consumption
-2026-08-12,FAC0102,21955.0,24.0,0,Low,Over Consumption
-2026-01-20,FAC0103,22597.0,24.0,0,Low,Over Consumption
-2026-03-23,FAC0104,21181.0,24.0,0,Low,Over Consumption
-2026-06-25,FAC0105,5951.0,24.0,0,Low,Over Consumption
-2026-06-27,FAC0106,14612.0,24.0,0,Low,Over Consumption
-2026-03-04,FAC0107,20471.0,24.0,0,Low,Over Consumption
-2026-08-11,FAC0108,15559.0,24.0,0,Low,Over Consumption
-2026-06-20,FAC0109,14974.0,24.0,0,Low,Over Consumption
-2026-05-31,FAC0110,16333.0,24.0,0,Low,Over Consumption
-2026-03-02,FAC0111,765.0,24.0,0,Low,Over Consumption
-2026-08-22,FAC0112,21360.0,24.0,0,Low,Over Consumption
-2026-02-18,FAC0113,21060.0,24.0,0,Low,Over Consumption
-2026-06-15,FAC0114,10170.0,24.0,0,Low,Over Consumption
-2026-07-11,FAC0115,8920.0,24.0,0,Low,Over Consumption
-2026-07-26,FAC0116,22661.0,24.0,0,Low,Over Consumption
-2026-08-05,FAC0117,12577.0,24.0,0,Low,Over Consumption
-2026-05-30,FAC0118,1320.0,24.0,0,Low,Over Consumption
-2026-06-08,FAC0119,21774.0,24.0,0,Low,Over Consumption
-2026-01-30,FAC0120,13235.0,24.0,0,Low,Over Consumption
-2026-04-05,FAC0121,21960.0,24.0,0,Low,Over Consumption
-2026-01-26,FAC0122,15028.0,24.0,0,Low,Over Consumption
-2026-03-02,FAC0123,13546.0,24.0,0,Low,Over Consumption
-2026-03-12,FAC0124,2157.0,24.0,0,Low,Over Consumption
-2026-07-21,FAC0125,8134.0,24.0,0,Low,Over Consumption
-2026-07-18,FAC0126,4102.0,24.0,0,Low,Over Consumption
-2026-02-03,FAC0127,9195.0,24.0,0,Low,Over Consumption
-2026-01-14,FAC0128,17317.0,24.0,0,Low,Over Consumption
-2026-04-26,FAC0129,21580.0,24.0,0,Low,Over Consumption
-2026-01-16,FAC0130,3147.0,24.0,0,Low,Over Consumption
-2026-06-05,FAC0131,20075.0,24.0,0,Low,Over Consumption
-2026-04-27,FAC0132,15296.0,24.0,0,Low,Over Consumption
-2026-04-16,FAC0133,22294.0,24.0,0,Low,Over Consumption
-2026-04-06,FAC0134,24898.0,24.0,0,Low,Over Consumption
-2026-07-27,FAC0135,12086.0,24.0,0,Low,Over Consumption
-2026-08-11,FAC0136,22019.0,24.0,0,Low,Over Consumption
-2026-02-27,FAC0137,14561.0,24.0,0,Low,Over Consumption
-2026-08-05,FAC0138,1448.0,24.0,0,Low,Over Consumption
-2026-02-16,FAC0139,19057.0,24.0,0,Low,Over Consumption
-2026-01-18,FAC0140,14257.0,24.0,0,Low,Over Consumption
-2026-04-27,FAC0141,5598.0,24.0,0,Low,Over Consumption
-2026-07-13,FAC0142,14071.0,24.0,0,Low,Over Consumption
-2026-02-25,FAC0143,1988.0,24.0,0,Low,Over Consumption
-2026-04-12,FAC0144,4431.0,24.0,0,Low,Over Consumption
-2026-05-08,FAC0145,13511.0,24.0,0,Low,Over Consumption
-2026-04-22,FAC0146,9986.0,24.0,0,Low,Over Consumption
-2026-04-14,FAC0147,14810.0,24.0,0,Low,Over Consumption
-2026-03-04,FAC0148,11413.0,24.0,0,Low,Over Consumption
-2026-01-20,FAC0149,3868.0,24.0,0,Low,Over Consumption
-2026-03-07,FAC0150,15702.0,24.0,0,Low,Over Consumption
-2026-06-13,FAC0001,19849.0,24.0,0,Low,Over Consumption
-2026-01-09,FAC0002,7723.0,24.0,0,Low,Over Consumption
-2026-05-31,FAC0003,9605.0,24.0,0,Low,Over Consumption
-2026-02-25,FAC0004,24411.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0005,23587.0,24.0,0,Low,Over Consumption
-2026-01-12,FAC0006,15357.0,24.0,0,Low,Over Consumption
-2026-02-11,FAC0007,18002.0,24.0,0,Low,Over Consumption
-2026-07-06,FAC0008,2332.0,24.0,0,Low,Over Consumption
-2026-07-30,FAC0009,21977.0,24.0,0,Low,Over Consumption
-2026-04-12,FAC0010,19621.0,24.0,0,Low,Over Consumption
-2026-04-03,FAC0011,21060.0,24.0,0,Low,Over Consumption
-2026-07-22,FAC0012,22791.0,24.0,0,Low,Over Consumption
-2026-06-24,FAC0013,5682.0,24.0,0,Low,Over Consumption
-2026-04-27,FAC0014,20989.0,24.0,0,Low,Over Consumption
-2026-03-18,FAC0015,16510.0,24.0,0,Low,Over Consumption
-2026-01-29,FAC0016,19091.0,24.0,0,Low,Over Consumption
-2026-01-21,FAC0017,18515.0,24.0,0,Low,Over Consumption
-2026-02-12,FAC0018,13574.0,24.0,0,Low,Over Consumption
-2026-04-23,FAC0019,735.0,24.0,0,Low,Over Consumption
-2026-07-01,FAC0020,22421.0,24.0,0,Low,Over Consumption
-2026-02-24,FAC0021,15998.0,24.0,0,Low,Over Consumption
-2026-07-26,FAC0022,24390.0,24.0,0,Low,Over Consumption
-2026-06-22,FAC0023,6778.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0024,2157.0,24.0,0,Low,Over Consumption
-2026-01-24,FAC0025,5894.0,24.0,0,Low,Over Consumption
-2026-01-01,FAC0026,5572.0,24.0,0,Low,Over Consumption
-2026-02-18,FAC0027,2143.0,24.0,0,Low,Over Consumption
-2026-05-09,FAC0028,22625.0,24.0,0,Low,Over Consumption
-2026-04-14,FAC0029,22040.0,24.0,0,Low,Over Consumption
-2026-08-28,FAC0030,22509.0,24.0,0,Low,Over Consumption
-2026-06-15,FAC0031,2900.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0032,5669.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0033,22237.0,24.0,0,Low,Over Consumption
-2026-08-29,FAC0034,9732.0,24.0,0,Low,Over Consumption
-2026-06-04,FAC0035,2164.0,24.0,0,Low,Over Consumption
-2026-06-12,FAC0036,24788.0,24.0,0,Low,Over Consumption
-2026-05-22,FAC0037,19587.0,24.0,0,Low,Over Consumption
-2026-04-21,FAC0038,22354.0,24.0,0,Low,Over Consumption
-2026-04-01,FAC0039,5824.0,24.0,0,Low,Over Consumption
-2026-07-24,FAC0040,9242.0,24.0,0,Low,Over Consumption
-2026-07-21,FAC0041,11957.0,24.0,0,Low,Over Consumption
-2026-03-20,FAC0042,9629.0,24.0,0,Low,Over Consumption
-2026-07-17,FAC0043,9059.0,24.0,0,Low,Over Consumption
-2026-05-29,FAC0044,13122.0,24.0,0,Low,Over Consumption
-2026-03-07,FAC0045,14632.0,24.0,0,Low,Over Consumption
-2026-06-20,FAC0046,22352.0,24.0,0,Low,Over Consumption
-2026-04-15,FAC0047,20669.0,24.0,0,Low,Over Consumption
-2026-04-14,FAC0048,14976.0,24.0,0,Low,Over Consumption
-2026-06-22,FAC0049,17390.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0050,7025.0,24.0,0,Low,Over Consumption
-2026-01-07,FAC0051,24038.0,24.0,0,Low,Over Consumption
-2026-05-07,FAC0052,6263.0,24.0,0,Low,Over Consumption
-2026-07-25,FAC0053,22375.0,24.0,0,Low,Over Consumption
-2026-07-13,FAC0054,24868.0,24.0,0,Low,Over Consumption
-2026-08-09,FAC0055,9498.0,24.0,0,Low,Over Consumption
-2026-04-23,FAC0056,5442.0,24.0,0,Low,Over Consumption
-2026-04-09,FAC0057,2540.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0058,693.0,24.0,0,Low,Over Consumption
-2026-04-01,FAC0059,7690.0,24.0,0,Low,Over Consumption
-2026-03-11,FAC0060,4682.0,24.0,0,Low,Over Consumption
-2026-08-21,FAC0061,15628.0,24.0,0,Low,Over Consumption
-2026-02-16,FAC0062,14313.0,24.0,0,Low,Over Consumption
-2026-08-02,FAC0063,21856.0,24.0,0,Low,Over Consumption
-2026-01-11,FAC0064,4636.0,24.0,0,Low,Over Consumption
-2026-06-21,FAC0065,5866.0,24.0,0,Low,Over Consumption
-2026-01-28,FAC0066,19901.0,24.0,0,Low,Over Consumption
-2026-01-27,FAC0067,17956.0,24.0,0,Low,Over Consumption
-2026-04-20,FAC0068,14705.0,24.0,0,Low,Over Consumption
-2026-06-12,FAC0069,15732.0,24.0,0,Low,Over Consumption
-2026-07-31,FAC0070,15727.0,24.0,0,Low,Over Consumption
-2026-03-28,FAC0071,9663.0,24.0,0,Low,Over Consumption
-2026-05-23,FAC0072,23129.0,24.0,0,Low,Over Consumption
-2026-06-15,FAC0073,23168.0,24.0,0,Low,Over Consumption
-2026-03-04,FAC0074,12028.0,24.0,0,Low,Over Consumption
-2026-03-11,FAC0075,7590.0,24.0,0,Low,Over Consumption
-2026-03-12,FAC0076,10207.0,24.0,0,Low,Over Consumption
-2026-02-28,FAC0077,18632.0,24.0,0,Low,Over Consumption
-2026-06-28,FAC0078,16186.0,24.0,0,Low,Over Consumption
-2026-04-23,FAC0079,16613.0,24.0,0,Low,Over Consumption
-2026-05-28,FAC0080,4381.0,24.0,0,Low,Over Consumption
-2026-06-05,FAC0081,19784.0,24.0,0,Low,Over Consumption
-2026-03-20,FAC0082,22140.0,24.0,0,Low,Over Consumption
-2026-02-10,FAC0083,1569.0,24.0,0,Low,Over Consumption
-2026-03-15,FAC0084,20981.0,24.0,0,Low,Over Consumption
-2026-05-31,FAC0085,5160.0,24.0,0,Low,Over Consumption
-2026-01-16,FAC0086,15858.0,24.0,0,Low,Over Consumption
-2026-06-29,FAC0087,24569.0,24.0,0,Low,Over Consumption
-2026-06-04,FAC0088,19382.0,24.0,0,Low,Over Consumption
-2026-07-15,FAC0089,3489.0,24.0,0,Low,Over Consumption
-2026-03-31,FAC0090,9944.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0091,4298.0,24.0,0,Low,Over Consumption
-2026-08-10,FAC0092,6646.0,24.0,0,Low,Over Consumption
-2026-06-09,FAC0093,14856.0,24.0,0,Low,Over Consumption
-2026-02-01,FAC0094,18596.0,24.0,0,Low,Over Consumption
-2026-01-24,FAC0095,23981.0,24.0,0,Low,Over Consumption
-2026-03-16,FAC0096,13069.0,24.0,0,Low,Over Consumption
-2026-08-24,FAC0097,17137.0,24.0,0,Low,Over Consumption
-2026-03-10,FAC0098,15132.0,24.0,0,Low,Over Consumption
-2026-05-18,FAC0099,23355.0,24.0,0,Low,Over Consumption
-2026-05-27,FAC0100,13151.0,24.0,0,Low,Over Consumption
-2026-06-19,FAC0101,3788.0,24.0,0,Low,Over Consumption
-2026-08-12,FAC0102,21955.0,24.0,0,Low,Over Consumption
-2026-01-20,FAC0103,22597.0,24.0,0,Low,Over Consumption
-2026-03-23,FAC0104,21181.0,24.0,0,Low,Over Consumption
-2026-06-25,FAC0105,5951.0,24.0,0,Low,Over Consumption
-2026-06-27,FAC0106,14612.0,24.0,0,Low,Over Consumption
-2026-03-04,FAC0107,20471.0,24.0,0,Low,Over Consumption
-2026-08-11,FAC0108,15559.0,24.0,0,Low,Over Consumption
-2026-06-20,FAC0109,14974.0,24.0,0,Low,Over Consumption
-2026-05-31,FAC0110,16333.0,24.0,0,Low,Over Consumption
-2026-03-02,FAC0111,765.0,24.0,0,Low,Over Consumption
-2026-08-22,FAC0112,21360.0,24.0,0,Low,Over Consumption
-2026-02-18,FAC0113,21060.0,24.0,0,Low,Over Consumption
-2026-06-15,FAC0114,10170.0,24.0,0,Low,Over Consumption
-2026-07-11,FAC0115,8920.0,24.0,0,Low,Over Consumption
-2026-07-26,FAC0116,22661.0,24.0,0,Low,Over Consumption
-2026-08-05,FAC0117,12577.0,24.0,0,Low,Over Consumption
-2026-05-30,FAC0118,1320.0,24.0,0,Low,Over Consumption
-2026-06-08,FAC0119,21774.0,24.0,0,Low,Over Consumption
-2026-01-30,FAC0120,13235.0,24.0,0,Low,Over Consumption
 2026-04-05,FAC0121,21960.0,24.0,0,Low,Over Consumption
 2026-01-26,FAC0122,15028.0,24.0,0,Low,Over Consumption
 2026-03-02,FAC0123,13546.0,24.0,0,Low,Over Consumption
@@ -299,3 +59,243 @@ timestamp,facility_id,energy_usage,temperature,complaints,severity,energy_status
 2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
 2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
 2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 15:40:45,F001,388.0,28.0,26,Critical,Over Consumption
+2026-09-05 15:40:45,F002,216.0,23.3,8,Critical,Normal
+2026-09-05 15:40:45,F003,168.0,18.2,3,Low,Normal
+2026-09-05 15:40:45,F004,539.0,22.4,12,Critical,Over Consumption
+2026-09-05 15:40:45,F005,126.0,21.6,8,Critical,Optimized
+2026-09-05 15:40:45,F006,153.0,21.4,25,Critical,Optimized
+2026-09-05 15:40:45,F007,270.0,22.4,31,Critical,Over Consumption
+2026-09-05 15:40:45,F008,242.0,23.7,9,Critical,Normal
+2026-09-05 15:40:45,F009,362.0,27.2,22,Critical,Over Consumption
+2026-09-05 15:40:45,F010,320.0,28.4,5,Medium,Over Consumption
+2026-09-05 15:40:45,F011,343.0,20.1,2,Low,Over Consumption
+2026-09-05 15:40:45,F012,422.0,20.0,2,Low,Over Consumption
+2026-09-05 15:40:45,F013,181.0,25.1,13,Critical,Normal
+2026-09-05 15:40:45,F014,238.0,21.9,2,Low,Normal
+2026-09-05 15:40:45,F015,215.0,30.2,17,Critical,Normal
+2026-09-05 21:16:01,F001,434.0,32.9,24,Critical,Over Consumption
+2026-09-05 21:16:01,F002,67.0,25.9,16,Critical,Optimized
+2026-09-05 21:16:01,F003,87.0,24.9,16,Critical,Optimized
+2026-09-05 21:16:01,F004,665.0,31.5,25,Critical,Over Consumption
+2026-09-05 21:16:01,F005,311.0,19.2,40,Critical,Normal
+2026-09-05 21:16:01,F006,546.0,25.3,42,Critical,Over Consumption
+2026-09-05 21:16:01,F007,402.0,24.6,19,Critical,Over Consumption
+2026-09-05 21:16:01,F008,540.0,26.2,0,Low,Over Consumption
+2026-09-05 21:16:01,F009,345.0,19.5,22,Critical,Over Consumption
+2026-09-05 21:16:01,F010,475.0,32.4,46,Critical,Over Consumption
+2026-09-05 21:16:01,F011,551.0,30.7,7,Medium,Over Consumption
+2026-09-05 21:16:01,F012,407.0,24.2,5,Medium,Over Consumption
+2026-09-05 21:16:01,F013,476.0,35.0,30,Critical,Over Consumption
+2026-09-05 21:16:01,F014,120.0,20.0,16,Critical,Optimized
+2026-09-05 21:16:01,F015,552.0,18.8,23,Critical,Over Consumption
+2026-09-05 21:16:01,F001,434.0,32.9,24,Critical,Over Consumption
+2026-09-05 21:16:01,F002,67.0,25.9,16,Critical,Optimized
+2026-09-05 21:16:01,F003,87.0,24.9,16,Critical,Optimized
+2026-09-05 21:16:01,F004,665.0,31.5,25,Critical,Over Consumption
+2026-09-05 21:16:01,F005,311.0,19.2,40,Critical,Normal
+2026-09-05 21:16:01,F006,546.0,25.3,42,Critical,Over Consumption
+2026-09-05 21:16:01,F007,402.0,24.6,19,Critical,Over Consumption
+2026-09-05 21:16:01,F008,540.0,26.2,0,Low,Over Consumption
+2026-09-05 21:16:01,F009,345.0,19.5,22,Critical,Over Consumption
+2026-09-05 21:16:01,F010,475.0,32.4,46,Critical,Over Consumption
+2026-09-05 21:16:01,F011,551.0,30.7,7,Medium,Over Consumption
+2026-09-05 21:16:01,F012,407.0,24.2,5,Medium,Over Consumption
+2026-09-05 21:16:01,F013,476.0,35.0,30,Critical,Over Consumption
+2026-09-05 21:16:01,F014,120.0,20.0,16,Critical,Optimized
+2026-09-05 21:16:01,F015,552.0,18.8,23,Critical,Over Consumption
+2026-09-06 07:54:49,F001,421.0,32.7,24,Critical,Over Consumption
+2026-09-06 07:54:49,F002,61.0,25.9,15,Critical,Optimized
+2026-09-06 07:54:49,F003,88.0,24.8,16,Critical,Optimized
+2026-09-06 07:54:49,F004,672.0,31.3,25,Critical,Over Consumption
+2026-09-06 07:54:49,F005,320.0,19.3,39,Critical,Normal
+2026-09-06 07:54:49,F006,549.0,25.7,42,Critical,Over Consumption
+2026-09-06 07:54:49,F007,416.0,24.1,20,Critical,Over Consumption
+2026-09-06 07:54:49,F008,535.0,26.4,0,Low,Over Consumption
+2026-09-06 07:54:49,F009,349.0,19.4,22,Critical,Over Consumption
+2026-09-06 07:54:49,F010,487.0,32.9,46,Critical,Over Consumption
+2026-09-06 07:54:49,F011,536.0,30.2,8,Critical,Over Consumption
+2026-09-06 07:54:49,F012,407.0,24.3,5,Medium,Over Consumption
+2026-09-06 07:54:49,F013,478.0,35.0,30,Critical,Over Consumption
+2026-09-06 07:54:49,F014,113.0,20.4,17,Critical,Optimized
+2026-09-06 07:54:49,F015,551.0,18.4,23,Critical,Over Consumption

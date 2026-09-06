@@ -1,0 +1,16 @@
+id,facility,issue,priority,status,date,complaints,energy,temp,occupancy,type,lat,lon
+#4001,Central Science Building,Ventilation hood blower motor noise,HIGH,Pending,2026-09-05,9,340,25.5,140,Academic,13.0827,80.2707
+#4002,Main University Library,Reading hall AC thermostat,MEDIUM,In Progress,2026-09-04,4,190,23.0,210,Library,13.0850,80.2720
+#4003,Undergraduate Hostel A,Plumbing pipe leakage 3rd floor,HIGH,Pending,2026-09-04,11,280,28.5,180,Residential,13.0810,80.2690
+#4004,University Health Center,Pharmacy refrigeration alarm,HIGH,Pending,2026-09-03,7,210,21.5,45,Others,13.0840,80.2710
+#4005,Indoor Sports Arena,Basketball court lighting fault,LOW,Completed,2026-09-03,2,140,24.0,90,Sports,13.0870,80.2750
+#4006,Bio-Sciences Research Block,Autoclave steam pressure drop,HIGH,In Progress,2026-09-02,8,360,22.0,60,Academic,13.0860,80.2730
+#4007,Grand Auditorium,Stage projector power supply,HIGH,Pending,2026-09-02,10,310,27.0,350,Academic,13.0835,80.2680
+#4008,Student Dining Hall,Kitchen dishwashing boiler fault,MEDIUM,Completed,2026-09-01,5,260,30.5,160,Others,13.0815,80.2740
+#4009,Undergraduate Hostel B,Wi-Fi access point reboot,LOW,Completed,2026-09-01,1,95,24.0,170,Residential,13.0805,80.2695
+#4010,Computer Science Dept,Server rack PDU warning,HIGH,In Progress,2026-08-31,12,420,25.0,95,Academic,13.0845,80.2725
+#4011,Chemical Engineering Lab,Gas leak detector sensor check,HIGH,Pending,2026-08-31,8,290,21.0,30,Academic,13.0855,80.2715
+#4012,Student Activity Center,Game room AC filter cleaning,LOW,Completed,2026-08-30,3,130,23.5,110,Others,13.0820,80.2735
+#4013,Postgraduate Hostel C,Water heater thermostat fault,MEDIUM,In Progress,2026-08-30,6,270,27.0,130,Residential,13.0798,80.2685
+#4014,Administration Annex,Payroll office printer outlet,LOW,Completed,2026-08-29,2,115,23.0,40,Administrative,13.0830,80.2700
+#4015,Planetarium & Astronomy Lab,Telescope dome hatch drive,MEDIUM,Pending,2026-08-29,4,175,20.5,50,Academic,13.0865,80.2745

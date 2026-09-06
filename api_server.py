@@ -1,6 +1,10 @@
 import os
 import sys
 from fastapi import FastAPI, HTTPException
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional
 
@@ -13,6 +17,14 @@ app = FastAPI(
     title="Smart Facility AI - Real-Time Multi-Agent API",
     description="Real-time IoT telemetry ingestion, automated agent control decisions, and facility analytics API.",
     version="2.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 class AnomalyRequest(BaseModel):

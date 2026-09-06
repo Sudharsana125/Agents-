@@ -1,0 +1,16 @@
+id,facility,issue,priority,status,date,complaints,energy,temp,occupancy,type,lat,lon
+#3001,Tech Park Tower A,Chiller pump vibration fault,HIGH,Pending,2026-09-05,14,520,27.5,210,Administrative,37.7749,-122.4194
+#3002,Tech Park Tower B,AHU fan belt slippage,MEDIUM,In Progress,2026-09-04,6,380,25.0,180,Administrative,37.7760,-122.4210
+#3003,Global Data Center Alpha,Precision AC compressor warning,HIGH,Pending,2026-09-04,12,650,21.0,30,Administrative,37.7830,-122.4120
+#3004,AI & Robotics Innovation Lab,Cleanroom ventilation pressure drop,HIGH,In Progress,2026-09-03,8,410,22.5,65,Academic,37.7795,-122.4280
+#3005,Executive Business Suite,Elevator C sensor calibration,MEDIUM,Completed,2026-09-03,3,290,24.0,90,Administrative,37.7730,-122.4110
+#3006,Financial Trading Floor,UPS Battery string 2 degradation,HIGH,Pending,2026-09-02,10,490,22.0,150,Administrative,37.7765,-122.4220
+#3007,Software R&D Facility,Lighting controller bus timeout,LOW,Completed,2026-09-02,2,180,23.5,120,Academic,37.7810,-122.4175
+#3008,Corporate Conference Center,Audio AV breaker trip,LOW,Completed,2026-09-01,1,160,24.5,280,Others,37.7725,-122.4180
+#3009,Cloud Infrastructure Hub B,Cooling tower water treatment low,HIGH,Pending,2026-09-01,11,590,20.5,20,Administrative,37.7840,-122.4135
+#3010,Executive Dining Hall,Exhaust hood oil filter service,MEDIUM,In Progress,2026-08-31,5,240,28.0,95,Others,37.7705,-122.4290
+#3011,Quantum Computing Lab,Cryogenic cooler line pressure,HIGH,Pending,2026-08-31,9,470,18.5,15,Academic,37.7788,-122.4205
+#3012,Visitor Welcome Center,Main entryway automatic door sensor,LOW,Completed,2026-08-30,2,110,23.0,140,Administrative,37.7755,-122.4140
+#3013,Sub-Station Power Vault 1,Transformer oil temp warning,HIGH,In Progress,2026-08-30,7,510,31.0,8,Administrative,37.7845,-122.4260
+#3014,Design & Prototype Studio,3D printer exhaust ventilation,MEDIUM,Completed,2026-08-29,4,220,24.8,50,Academic,37.7738,-122.4165
+#3015,Security Operations Tower,CCTV power supply redundant fail,MEDIUM,In Progress,2026-08-29,6,310,23.0,40,Administrative,37.7820,-122.4245
