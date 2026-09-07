@@ -107,12 +107,5 @@ npm run dev
 
 ---
 
-### 4. Running IoT Streamer & Multi-Agent Simulator
-To stream live telemetry and trigger real-time AI decision ticks:
-```bash
-# Run multi-agent pipeline tick
-python main.py
 
-# Run continuous IoT telemetry simulator (updates every 3s)
-python simulator.py
 ```
